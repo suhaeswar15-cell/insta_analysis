@@ -1,0 +1,31 @@
+# Alfido Tech Instagram Strategy
+
+## Purpose
+This strategy document summarizes the analytics-driven recommendations from the Instagram engagement analysis and provides a weekly content framework for Alfido Tech.
+
+## Key findings
+- Top posting windows should be prioritized based on the dataset's highest engagement hours and days.
+- High-performing content types, such as educational carousels, short videos, and community-focused posts, drive stronger engagement.
+- Hashtag count matters, but quality and relevance matter more than volume; aim for a moderate hashtag count that complements the caption.
+- Follower growth signals are strongest when high-follower posts still preserve strong engagement rates, indicating the need for valuable content rather than just reach.
+
+## Weekly content calendar recommendation
+- Monday: Product education or how-to carousel.
+- Tuesday: Customer story or case study showcase.
+- Wednesday: Behind-the-scenes video or reel.
+- Thursday: Industry insight or thought leadership content.
+- Friday: Interactive engagement post, such as a poll or question.
+- Saturday: Community spotlight or user-generated content.
+- Sunday: Weekly recap or upcoming announcement.
+
+## Five engagement optimization strategies
+1. Post consistently during the top three engagement hours identified by the analysis.
+2. Prioritize content types that the data shows earn the highest average engagement rates.
+3. Use meaningful captions with strategic hashtags and a clear call to action.
+4. Keep measuring follower count vs. engagement rate to ensure growth is paired with community interaction.
+5. Test new creative formats weekly and iterate using performance data from the notebook.
+
+## Next steps
+- Refresh the dataset monthly and rerun the notebook.
+- A/B test caption styles and hashtag groups.
+- Review top-performing posts to replicate successful formats.
